@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Graphics/GENERAL/SimplePixelUI/ExamleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5e3bc555390209956ac12b51468ef759
+  - enabled: 1
+    path: Assets/Scenes/LevelSelection.unity
+    guid: 382b8223c22eb53318647b5f55506db3
+  - enabled: 1
+    path: Assets/Scenes/Recycle.unity
+    guid: 03c4e1b41692968e788a37a4eeb49693
+  - enabled: 1
+    path: Assets/Scenes/Reduce.unity
+    guid: 9704660ee35d0fa20850e6a0b2c8ee52
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Story.unity
+    guid: 9dae97d91f05f0fbca6427a7c8093f7b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Reuse.unity
+    guid: d8a9ab65bfb4d4a9bbb41a7b41e93355
+  m_configObjects: {}
