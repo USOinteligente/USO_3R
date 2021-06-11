@@ -1,7 +1,7 @@
 # USO_3R
 Uso Inteligente's video game about Reuse, Reduce and Recycle
 
-## _Developed by_
+## _Originally developed by_
 Emilio Ríos Ochoa
 
 Rebeca Rojas Pérez
